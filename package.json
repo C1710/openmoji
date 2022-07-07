@@ -1,6 +1,6 @@
 {
   "name": "openmoji",
-  "version": "13.1.0",
+  "version": "14.0.0",
   "description": "Open source emojis for designers, developers and everyone else!",
   "homepage": "https://openmoji.org/",
   "main": "index.js",
@@ -43,7 +43,7 @@
     "csv-parse": "^2.5.0",
     "csv-write-stream": "^2.0.0",
     "emojibase": "^5.0.0",
-    "emojibase-data": "^7.0.0",
+    "emojibase-data": "^7.0.1",
     "glob": "^7.1.2",
     "jsdom": "^13.2.0",
     "kd-tree-javascript": "^1.0.3",

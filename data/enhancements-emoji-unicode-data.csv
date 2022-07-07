@@ -100,7 +100,7 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🐳,1F433,"cetacean, swim, animal, water",Kris Kowal,2020-04-04
 🦐,1F990,"swim, animal, water, food",Robert Winslow,2022-03-29
 🦑,1F991,"swim, animal, water",Selina Bauder,2018-04-18
-🐍,1F40D,"wriggle, fast,",Selina Bauder,2018-04-18
+🐍,1F40D,"wriggle, fast",Selina Bauder,2018-04-18
 🐢,1F422,"slow, water, sand",Robert Winslow,2022-03-29
 🦖,1F996,dinosaur,Selina Bauder,2018-04-18
 🐉,1F409,"fire, fly",Selina Bauder,2018-04-18
@@ -129,7 +129,7 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🔼,1F53C,improve,Jose Avila,2018-04-18
 🔽,1F53D,"decline, decrease",Jose Avila,2018-04-18
 ▶️,25B6,,Jose Avila,2018-04-18
-⏩️,23E9,,Jose Avila,2018-04-18
+⏩️,23000000000,,Jose Avila,2018-04-18
 📳,1F4F3,silent mode,Jose Avila,2018-04-18
 📶,1F4F6,,Jose Avila,2018-04-18
 ⏏️,23CF,,Carlin MacKenzie,2020-06-05
@@ -152,11 +152,11 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🥇,1F947,"Gold Medal, Gold, Medal, 1st Place Medal, First Place Medal",Julian Grüneberg,2018-04-18
 🥈,1F948,"Silver, Medal, Silver Medal, Second Place, Second Place Medal, 2nd Place Medal",Julian Grüneberg,2018-04-18
 🥉,1F949,"Bronze, Medal, Bronze Medal, Third Place, Third Place Medal, 3rd Place Medal",Julian Grüneberg,2018-04-18
-👆️,1F446,"backhand, finger, hand, index, point, up, Middle Finger, White Up",Julian Grüneberg,2018-04-18
-👇️,1F447,"backhand, down, finger, hand, index, point, point, down, Middle Finger, White down",Julian Grüneberg,2018-04-18
-👈️,1F448,"backhand, finger, hand, index, point, point, left, Middle Finger, White left",Julian Grüneberg,2018-04-18
-👉️,1F449,"backhand, finger, hand, index, point, point, right, Middle Finger, White right",Julian Grüneberg,2018-04-18
-👊,1F44A,"clenched, fist, hand, punch, fist, oncoming fist, Brofist, Bro, Bump,",Julian Grüneberg,2018-04-18
+👆️,1F446,"backhand, finger, hand, index, point, up, point up",Julian Grüneberg,2018-04-18
+👇️,1F447,"backhand, finger, hand, index, point, down, point down",Julian Grüneberg,2018-04-18
+👈️,1F448,"backhand, finger, hand, index, point, left, point left",Julian Grüneberg,2018-04-18
+👉️,1F449,"backhand, finger, hand, index, point, right, point right",Julian Grüneberg,2018-04-18
+👊,1F44A,"clenched, fist, hand, punch, fist, oncoming fist, Brofist, Bro, Bump",Julian Grüneberg,2018-04-18
 👋,1F44B,"Hello, Goodbye, Waving Hand Sign, Wave",Julian Grüneberg,2018-04-18
 👌,1F44C,"hand, ok, okay, perfect",Julian Grüneberg,2018-04-18
 👍️,1F44D,"Like, yes, +1, hand, thumb, up, thumbs up, thumbs up",Julian Grüneberg,2018-04-18
@@ -164,7 +164,7 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 👏,1F44F,"clap, hand, clapping hands, Applause, Clap, Clapping, Golf Clap, Round Of Applause",Julian Grüneberg,2018-04-18
 👐,1F450,"Hug, Open Hands, Open, Hands, Jazz Hands, Jazz",Julian Grüneberg,2018-04-18
 💪,1F4AA,"Flexed Biceps, Biceps, Flexed, flex, muscle, Feats of Strength, strength, feats, Strong, lisa schulz, julian grüneberg",Julian Grüneberg,2018-04-18
-🖐️,1F590,"Five Hand, Hand, Five, Splayed",Julian Grüneberg,2018-04-18
+🖐️,1F590,"Five Hand, Hand, Five, Splayed",Aileen Gedrat,2022-07-01
 🙌,1F64C,"Raising Hands, Raising, Hands, celebration, gesture, hand, hooray, raised, Arms In The Air, Banzai, Festivus Miracle, Hallelujah, Praise Hands, Two Hands",Julian Grüneberg,2018-04-18
 🤘,1F918,"rock on, finger, hand, horns, rock-on, rock, Devil, Devil Fingers, Heavy, Metal, Heavy Metal, rock",Julian Grüneberg,2018-04-18
 🤙,1F919,"Call Me Hand, call, hand, Phone, Shaka",Julian Grüneberg,2018-04-18
@@ -201,8 +201,8 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 📚️,1F4DA,"book, read, write, isometric",Liz Bravo,2020-12-22
 📄,1F4C4,"write, text, paper",Jonas Roßner,2018-04-18
 📰,1F4F0,"read, news, paper, text",Jonas Roßner,2018-04-18
-🔖,1F516,"remember,",Jonas Roßner,2018-04-18
-🏷️,1F3F7,"stick,",Jonas Roßner,2018-04-18
+🔖,1F516,remember,Jonas Roßner,2018-04-18
+🏷️,1F3F7,stick,Jonas Roßner,2018-04-18
 📃,1F4C3,"rolled, page, text",Jonas Roßner,2018-04-18
 📒,1F4D2,"book, read, write",Jonas Roßner,2018-04-18
 📜,1F4DC,"old, papyrus, text",Jonas Roßner,2018-04-18
@@ -216,23 +216,23 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 😿,1F63F,"unhappy, depressed",Emily Jäger,2018-04-18
 🙀,1F640,wow,Emily Jäger,2018-04-18
 🎓️,1F393,,Jonas Roßner,2018-04-18
-👑,1F451,"crone, gold,",Jonas Roßner,2018-04-18
+👑,1F451,"crone, gold",Jonas Roßner,2018-04-18
 👓️,1F453,,Jonas Roßner,2018-04-18
-💎,1F48E,"expensive,",Jonas Roßner,2018-04-18
+💎,1F48E,expensive,Jonas Roßner,2018-04-18
 🕶️,1F576,sunglasses,Jonas Roßner,2018-04-18
-🛍️,1F6CD,"buy,",Jonas Roßner,2018-04-18
-🎒,1F392,"young,",Jonas Roßner,2018-04-18
+🛍️,1F6CD,buy,Jonas Roßner,2018-04-18
+🎒,1F392,young,Jonas Roßner,2018-04-18
 🩴,1FA74,,Liz Bravo,2020-03-11
-🎩,1F3A9,"magic,",Jonas Roßner,2018-04-18
-👒,1F452,"beautiful,",Jonas Roßner,2018-04-18
+🎩,1F3A9,magic,Jonas Roßner,2018-04-18
+👒,1F452,beautiful,Niklas Kuntz,2022-07-01
 👔,1F454,"cravatte, smart",Jonas Roßner,2018-04-18
 👕,1F455,,Jonas Roßner,2018-04-18
 👖,1F456,,Jonas Roßner,2018-04-18
 👗,1F457,"beautiful, dress, woman",Jonas Roßner,2018-04-18
 👘,1F458,"japan, clothing",Liz Bravo,2020-12-22
-👙,1F459,"summer,",Jonas Roßner,2018-04-18
+👙,1F459,summer,Jonas Roßner,2018-04-18
 👚,1F45A,,Jonas Roßner,2018-04-18
-👛,1F45B,"money,",Jonas Roßner,2018-04-18
+👛,1F45B,money,Jonas Roßner,2018-04-18
 👜,1F45C,,Jonas Roßner,2018-04-18
 👝,1F45D,,Jonas Roßner,2018-04-18
 👞,1F45E,,Jonas Roßner,2018-04-18
@@ -251,7 +251,7 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🖱️,1F5B1,"electric, computer, mouse",Jonas Roßner,2018-04-18
 🖨️,1F5A8,"color, electric",Jonas Roßner,2018-04-18
 ⌨️,2328,"key, write, electric",Carlin MacKenzie,2020-05-12
-💿️,1F4BF,"analog,",Jonas Roßner,2018-04-18
+💿️,1F4BF,analog,Jonas Roßner,2018-04-18
 📀,1F4C0,film,Jonas Roßner,2018-04-18
 🔪,1F52A,eat,Jonas Roßner,2018-04-18
 🍴,1F374,eat,Jonas Roßner,2018-04-18
@@ -264,7 +264,7 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🍺,1F37A,"beer, german, alcohol, bavaria, party",Laura Humpfer,2018-04-18
 🍻,1F37B,"beer, german, party, alcohol, bavaria, party",Laura Humpfer,2018-04-18
 🍼,1F37C,"baby, drink, sweet",Laura Humpfer,2018-04-18
-🥂,1F942,"party, secco,",Laura Humpfer,2018-04-18
+🥂,1F942,"party, secco",Laura Humpfer,2018-04-18
 🥤,1F964,"beverage, fastfood",Laura Humpfer,2018-04-18
 ☕️,2615,,Alexander Müller,2020-05-11
 🍵,1F375,"glass, hot",Laura Humpfer,2018-04-18
@@ -462,7 +462,7 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🥓,1F953,,Miriam Vollmeier,2018-04-18
 🥖,1F956,,Miriam Vollmeier,2018-04-18
 🫓,1FAD3,,Liz Bravo,2020-03-03
-🥚,1F95A,,Miriam Vollmeier,2018-04-18
+🥚,1F95A,,Niklas Kuntz,2022-07-01
 🥣,1F963,,Liz Bravo,2020-12-22
 🥨,1F968,,Miriam Vollmeier,2018-04-18
 🥩,1F969,,Miriam Vollmeier,2018-04-18
@@ -556,7 +556,7 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🥁,1F941,"drum, drumsticks, music, beat",Sina Schulz,2018-04-18
 🪘,1FA98,,Liz Bravo,2020-03-03
 🎷,1F3B7,"saxophone, sax, jazz, instrument",Sina Schulz,2018-04-18
-🎸,1F3B8,"guitar, e-guitar, instrumental, acoustic, chords,",Sina Schulz,2018-04-18
+🎸,1F3B8,"guitar, e-guitar, instrumental, acoustic, chords",Sina Schulz,2018-04-18
 🎹,1F3B9,"keyboard, piano keys, chords",Sina Schulz,2018-04-18
 🎺,1F3BA,"trumpet, horns, music, woodwind instrument",Sina Schulz,2018-04-18
 🎻,1F3BB,"string, violin, fiddle, bow",Sina Schulz,2018-04-18
@@ -583,13 +583,13 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🛒,1F6D2,,Marius Schnabel,2018-04-18
 🔮,1F52E,mystery,Marius Schnabel,2018-04-18
 🪄,1FA84,,Liz Bravo,2020-03-11
-🗿,1F5FF,"stone, easter island",Liz Bravo,2020-12-22
+🗿,1F5FF,"moyai, shibuya, japan, meet, meeting point",Liz Bravo,2022-07-05
 🚬,1F6AC,"tobacco, smoke",Marius Schnabel,2018-04-18
 ⚰️,26B0,"funeral, dead",Marius Schnabel,2018-04-18
 🪦,1FAA6,,Liz Bravo,2020-03-22
 ✔️,2714,"check, mark, right, todo",Carlin MacKenzie,2020-05-12
 ✖️,2716,"multiplication, x, cancel, wrong",Hilda Kalyoncu,2018-04-18
-❌,274C,"cancel, wrong, multiply, x,",Hilda Kalyoncu,2018-04-18
+❌,274C,"cancel, wrong, multiply, x",Hilda Kalyoncu,2018-04-18
 ☑️,2611,"check, right, box",Hilda Kalyoncu,2018-04-18
 ♀️,2640,"woman, sign, gender",Hilda Kalyoncu,2018-04-18
 ♂️,2642,"man, sign, gender",Hilda Kalyoncu,2018-04-18
@@ -724,7 +724,7 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🏘️,1F3D8,"buildings, neighbourhood",Martin Wehl,2018-04-18
 🏛️,1F3DB,"building, historical, old, antique",Martin Wehl,2018-04-18
 🏥,1F3E5,"building, cross, help, social, public",Martin Wehl,2018-04-18
-🏫,1F3EB,"learning, public, teaching, education",Martin Wehl,2018-04-18
+🏫,1F3EB,"learning, public, teaching, education",Niklas Kuntz,2022-07-01
 🏗️,1F3D7,"work, building lot, crane",Martin Wehl,2018-04-18
 🏙️,1F3D9,"buildings, metropolis",Martin Wehl,2018-04-18
 🏚️,1F3DA,"building, old, rotten, dangerous",Martin Wehl,2018-04-18
@@ -763,11 +763,11 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🎪,1F3AA,"fun, leisure, entertainment, red, white",Martin Wehl,2018-04-18
 💈,1F488,"beauty, hairdresser",Martin Wehl,2018-04-18
 ⛪️,26EA,"religious, pray, cross, building, god, mess, faith",Martin Wehl,2018-04-18
-⛩️,26E9,"religious, pray, building, god, faith",Martin Wehl,2018-04-18
+⛩️,26000000000,"religious, pray, building, god, faith",Martin Wehl,2018-04-18
 🕋,1F54B,"religious, pray, building, god, black, mecca, faith",Martin Wehl,2018-04-18
 🕌,1F54C,"religious, pray, building, god, faith",Liz Bravo,2020-12-22
 🕍,1F54D,"religious, pray, building, god, faith",Martin Wehl,2018-04-18
-🌸,1F338,"pink,",Hilda Kalyoncu,2018-04-18
+🌸,1F338,pink,Hilda Kalyoncu,2018-04-18
 🌹,1F339,"rose, red, nature, present, valentines day",Hilda Kalyoncu,2018-04-18
 🌼,1F33C,"yellow, nature",Hilda Kalyoncu,2018-04-18
 🌷,1F337,"pink, eastern",Hilda Kalyoncu,2018-04-18
@@ -847,7 +847,7 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🥊,1F94A,"boxing, glove, red, mitt, sport, fist, beat, slap, slap in your face, muhammad ali",Vanessa Boutzikoudi,2018-04-18
 🥋,1F94B,"white, uniform, judo, karate, keikogi, sport",Vanessa Boutzikoudi,2018-04-18
 ⛳️,26F3,"flag, golf, golf flag, golf hole with flag, sport, ball, goal",Vanessa Boutzikoudi,2018-04-18
-⌚️,231A,"watch, time,",Rana Cakir,2018-04-18
+⌚️,231A,"watch, time",Rana Cakir,2018-04-18
 ⌛️,231B,"countdown, hourglass",Rana Cakir,2018-04-18
 ⏰,23F0,,Rana Cakir,2018-04-18
 ⏱️,23F1,,Rana Cakir,2018-04-18
@@ -924,7 +924,7 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🚥,1F6A5,"light, red, green, yellow, traffic, traffic light",Ronja Bäurlen,2018-04-18
 🚧,1F6A7,"barrier, warning, stop, attention, traffic",Carlin MacKenzie,2020-09-13
 🛑,1F6D1,"stop, sign, signal, warning",Ronja Bäurlen,2018-04-18
-🛵,1F6F5,"motor, scooter, transportation, bicycle,",Ronja Bäurlen,2018-04-18
+🛵,1F6F5,"motor, scooter, transportation, bicycle",Ronja Bäurlen,2018-04-18
 ⛽️,26FD,"fuel, gas, station, transportation",Ronja Bäurlen,2018-04-18
 🚹️,1F6B9,"man, restroom, guy, dude, male, toilet",Ronja Bäurlen,2018-04-18
 🚺️,1F6BA,"woman, female, restroom, chick, women, toilet",Ronja Bäurlen,2018-04-18
@@ -976,7 +976,7 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🥌,1F94C,,Daniel Quiros,2018-11-16
 🥡,1F961,,Daniel Quiros,2018-11-16
 🥫,1F96B,,Daniel Quiros,2018-11-16
-🧢,1F9E2,,Daniel Quiros,2018-11-16
+🧢,1F9E2,,Jennifer Pätzold,2022-07-01
 🧥,1F9E5,,Daniel Quiros,2018-11-16
 🌰,1F330,,Hend Hourani,2018-11-16
 🌾,1F33E,,Hend Hourani,2018-11-16
@@ -1094,7 +1094,7 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🇦🇱,1F1E6-1F1F1,,Ferdinand Sorg,2019-02-13
 🇦🇲,1F1E6-1F1F2,,Ferdinand Sorg,2019-02-13
 🇦🇴,1F1E6-1F1F4,,Ferdinand Sorg,2019-02-13
-🇦🇶,1F1E6-1F1F6,,Carlin MacKenzie, 2020-03-29
+🇦🇶,1F1E6-1F1F6,,Carlin MacKenzie,2020-03-29
 🇦🇷,1F1E6-1F1F7,,Ferdinand Sorg,2019-02-13
 🇦🇸,1F1E6-1F1F8,,Aileen Gedrat,2019-02-13
 🇦🇹,1F1E6-1F1F9,,Ferdinand Sorg,2019-02-13
@@ -1623,7 +1623,7 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🛃,1F6C3,,Tonia Reinhardt,2019-05-07
 🧪,1F9EA,,Tonia Reinhardt,2019-05-07
 🧫,1F9EB,,Tonia Reinhardt,2019-05-07
-🧬,1F9EC,,Tonia Reinhardt,2019-05-07
+🧬,1F9EC,,Alan Seng,2022-07-01
 🧯,1F9EF,,Tonia Reinhardt,2019-05-07
 🧰,1F9F0,,Tonia Reinhardt,2019-05-07
 🧲,1F9F2,,Tonia Reinhardt,2019-05-07
@@ -1830,3 +1830,30 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🫢,1FAE2,,Liz Bravo,2022-02-10
 🫤,1FAE4,,Liz Bravo,2022-02-10
 🫥,1FAE5,,Liz Bravo,2022-02-10
+🛝,1F6DD,,Niklas Kuntz,2022-05-09
+🛞,1F6DE,,Niklas Kuntz,2022-05-09
+🟰,1F7F0,,Aileen Gedrat,2022-05-09
+🧌,1F9CC,,Niklas Kuntz,2022-05-09
+🩻,1FA7B,,Tim Loose,2022-05-09
+🩼,1FA7C,,Niklas Kuntz,2022-05-09
+🪪,1FAAA,,Niklas Kuntz,2022-05-09
+🪫,1FAAB,,Alena Peichl,2022-05-09
+🪬,1FAAC,,Pia Stockhaus,2022-05-09
+🪷,1FAB7,,Max Isele,2022-05-09
+🪸,1FAB8,,Alena Peichl,2022-05-09
+🪹,1FAB9,,Alena Peichl,2022-05-09
+🪺,1FABA,,Alena Peichl,2022-05-09
+🫃,1FAC3,,Natalie Siebler,2022-05-09
+🫄,1FAC4,,Jana Gerspach,2022-05-09
+🫅,1FAC5,,Alena Peichl,2022-05-09
+🫗,1FAD7,,Klara Schöninger,2022-05-09
+🫘,1FAD8,,Jana Junk,2022-05-09
+🫡,1FAE1,,Alan Seng,2022-05-09
+🫣,1FAE3,,Robin Bauer,2022-05-09
+🫰,1FAF0,,Niklas Kuntz,2022-05-09
+🫱,1FAF1,,Pia Stockhaus,2022-05-09
+🫲,1FAF2,,Pia Stockhaus,2022-05-09
+🫳,1FAF3,,Pia Stockhaus,2022-05-09
+🫴,1FAF4,,Pia Stockhaus,2022-05-09
+🫵,1FAF5,,Aileen Gedrat,2022-05-09
+🫶,1FAF6,,Alan Seng,2022-05-09
